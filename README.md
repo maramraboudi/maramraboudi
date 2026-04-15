@@ -6,9 +6,11 @@
 maram@hydsec:~$ cybersecurity student
 
 > interests
-- offensive security
+- Deffensive security
 - web exploitation
-- reverse engineering (beginner)
+- cryptofraphy
+- digital forensics
+- osint 
 
 > status
 learning. breaking. repeating.
