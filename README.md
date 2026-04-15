@@ -10,7 +10,8 @@ cybersecurity student
 maram@hydsec:~$ cybersecurity student
 
 ### > interests
-- defensive security  
+- defensive security
+- malware 
 - web exploitation  
 - cryptography  
 - digital forensics  
