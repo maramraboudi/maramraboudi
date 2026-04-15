@@ -6,27 +6,22 @@ cybersecurity student
 
 ---
 
-### > whoami
-maram@hydsec:~$ cybersecurity student
+```bash
+maram@hydsec:~$ whoami
+cybersecurity student
 
-### > interests
-- defensive security
-- malware 
-- web exploitation  
-- cryptography  
-- digital forensics  
-- osint  
+maram@hydsec:~$ interests
+> defensive security
+> malware
+> web exploitation
+> cryptography
+> digital forensics
+> osint
 
-### > status
+maram@hydsec:~$ status
 learning. breaking. repeating.
 
-### skills
+maram@hydsec:~$ skills
+[ python ] [ c ] [ c++ ] [ java ] [ lua ] [ php ]
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+maram@hydsec:~$ _
