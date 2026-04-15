@@ -1,16 +1,20 @@
-# maram
+<h1 align="center">maram 👾</h1>
 
-```md
-```bash
-> whoami
+<p align="center">
+cybersecurity student
+</p>
+
+---
+
+### > whoami
 maram@hydsec:~$ cybersecurity student
 
-> interests
-- Deffensive security
-- web exploitation
-- cryptofraphy
-- digital forensics
-- osint 
+### > interests
+- defensive security  
+- web exploitation  
+- cryptography  
+- digital forensics  
+- osint  
 
-> status
+### > status
 learning. breaking. repeating.
