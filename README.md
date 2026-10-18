@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👾 Maram Raboudi
+# Maram Raboudi
 
-### `Defensive Security` × `Blue Team` × `Cloud Security`
+### `Defensive Security` 
 
 Final-year cybersecurity engineering student focused on defensive security —
 SIEM monitoring, incident response, digital forensics, and secure system design.
@@ -23,9 +23,6 @@ SIEM monitoring, incident response, digital forensics, and secure system design.
 - **System Hardening:** Linux, Windows Server & Workstation hardening, secure configuration
 - **Networking & Security:** TCP/IP, OSI model, firewall & VPN configuration, traffic monitoring
 - **Cloud Security:** AWS IAM, Azure basics, cloud security event monitoring, secure cloud architecture
-- **Cryptography & Auth:** Hashing, SSL/TLS, PKI fundamentals, password & token management
-- **Compliance & GRC:** ISO 27001 & SOC 2 control mapping, audit-ready reporting
-- **Programming & Scripting:** Python, Bash, Java, C, C++
 
 ---
 
@@ -37,34 +34,7 @@ SIEM monitoring, incident response, digital forensics, and secure system design.
 | BrunnerCTF 2025 | 30th / 1148 |
 | TryHackMe Tunisia | 🥉 3rd ranked |
 
-**EagleDefenders** — CTF Player, Author & Trainer (Aug 2025–Present)
-Designs & solves forensics, OSINT, cryptography, and web exploitation challenges; authors write-ups and training content.
-
 ---
-
-## 🧰 Tech & Tools
-
-**Defense & Monitoring**
-<p>
-<img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/Elastic_(ELK)-005571?logo=elastic&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/Wazuh-3AB0C3?style=flat-square" />
-<img src="https://img.shields.io/badge/Snort-black?style=flat-square" />
-</p>
-
-**Forensics**
-<p>
-<img src="https://img.shields.io/badge/Autopsy-black?style=flat-square" />
-<img src="https://img.shields.io/badge/FTK_Imager-black?style=flat-square" />
-<img src="https://img.shields.io/badge/Volatility-black?style=flat-square" />
-<img src="https://img.shields.io/badge/Sleuth_Kit-black?style=flat-square" />
-</p>
-
-**Cloud**
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square" />
-</p>
 
 **Languages**
 <p>
